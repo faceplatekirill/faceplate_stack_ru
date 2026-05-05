@@ -228,7 +228,7 @@ openclaw devices approve Request_ID
 ## Следующий шаг
 
 У вас развёрнут пустой проект Faceplate. Заполнить его тестовыми SCADA-данными можно по инструкции:
-https://github.com/faceplatekirill/fp_demo_project_light
+https://github.com/faceplatekirill/fp_demo_project_light_ru
 
 ## Документация Faceplate
 
